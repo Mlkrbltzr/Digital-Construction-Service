@@ -318,7 +318,7 @@ a {
 
 /*pag contacto*/
 .fondo_contacto{
-        background-image: url(/Img/amarillo-negro.jpg);
+        background-image: url(../Img/amarillo-negro.jpg);
         height: 50vh;
         background-position: center;
         background-repeat: no-repeat;
@@ -331,7 +331,7 @@ a {
         }
 /*construccion*/
 .cont_contacto{
-        background-image: url(/Img/amarillo-negro.jpg);
+        background-image: url(../Img/amarillo-negro.jpg);
         height: 50vh;
         background-position: center;
         background-repeat: no-repeat;
